@@ -252,3 +252,20 @@
     }
   }
 }
+
+.figure {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.figcaption .description {
+  flex-grow: 1;
+  text-align: left;
+}
+
+.figcaption .location {
+  float: right;
+  font-style: italic;
+}
