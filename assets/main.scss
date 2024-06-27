@@ -3,3 +3,6 @@
 ---
 
 @import "minima";
+
+// Override the default margin-bottom for figures
+figure { margin-bottom: 30px; }
