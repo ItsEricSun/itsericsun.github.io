@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Photography: 2017"
-date:   2017-12-31 23:10:13 -0400
+date:   2017-12-31 23:59:59 -0000
 categories: 
 ---
 {% include image.html url="/images/2017/0723.jpg" description="Tower of Rocks" location="CA, USA" %}
