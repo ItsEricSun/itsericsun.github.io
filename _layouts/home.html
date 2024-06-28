@@ -11,22 +11,27 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Gallery" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    <div class="footer-col-wrapper">
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+          <div class="footer-col footer-col-3">
+            <a class="post-container" href="{{ post.url | relative_url }}">
+              <li>
+                <img src="{{ post.thumbnail }}" alt="{{ post.title }} image" class="post-image">
+                <div>
+                  <span class="post-container-title"> {{ post.title | escape }} </span>
+                  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                  <span class="date">{{ post.date | date: date_format }}</span>
+                </div>
+                {%- if site.show_excerpts -%}
+                  {{ post.excerpt }}
+                {%- endif -%}
+              </li>
+            </a>
+          </div>
+        {%- endfor -%}
+      </ul>
+    </div>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}

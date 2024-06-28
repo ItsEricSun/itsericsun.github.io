@@ -2,6 +2,7 @@
 layout: post
 title:  "Photography: 2018"
 date:   2018-12-31 23:59:59 -0000
+thumbnail: /images/thumbnails/2018.jpg
 categories: 
 ---
 {% include image.html url="/images/2018/05231.jpg" description="Washington Monument at Sunset" location="Washington, D.C., USA" %}

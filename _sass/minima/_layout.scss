@@ -144,8 +144,8 @@
 }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -185,6 +185,47 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+}
+
+.post-container {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #ddd; /* Optional: Add a border */
+  padding: 10px; /* Optional: Add some padding */
+  transition: background-color 0.3s ease; /* Optional: Add a hover effect */
+}
+
+.post-container:hover {
+  background-color: #e9e9e9; /* Optional: Change background color on hover */
+}
+
+.post-image {
+  width: 100%; /* Adjust based on your layout needs */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure the image is a block element */
+  margin-bottom: 10px; /* Space between image and content */
+}
+
+.post-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-container-title {
+  // font-size: .8em; /* Adjust the font size as needed */
+  color: #333; /* Adjust the color as needed */
+  margin: 0; /* Remove default margin */
+}
+
+.post-container .post-container-title {
+  flex-grow: 1;
+  text-align: left;
+}
+
+.post-container .date {
+  float: right;
+  color: #333;
 }
 
 .post-list {
