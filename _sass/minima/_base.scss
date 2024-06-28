@@ -214,7 +214,7 @@ pre {
     display: inline-block;
     fill: #{$grey-color};
     padding-right: 5px;
-    vertical-align: text-top;
+    vertical-align: sub;
 }
 
 .social-media-list {
@@ -224,12 +224,9 @@ pre {
 }
 
 .email-icon {
-  width: 16px;
-  height: 16px;
   display: inline-block;
   color: #{$grey-color} !important;
   padding-right: 9px;
-  vertical-align: text-top;
 }
 
 
