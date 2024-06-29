@@ -6,5 +6,5 @@ thumbnail: /images/drawings/06252.png
 categories: 
 ---
 {% include image.html url="/images/drawings/0407.jpg" description="City at Sunset" location="Highschool Art Class" %}
-{% include image.html url="/images/drawings/06251.png" description="Rainbow Beach" location="Inspired by Bob Ross" %}
-{% include image.html url="/images/drawings/06252.png" description="Northern Lights" location="Inspired by Bob Ross" %}
+{% include image.html url="/images/drawings/06251.png" description="Rainbow Beach" location="Inspired by Bob Ross, Made in Microsoft Paint" %}
+{% include image.html url="/images/drawings/06252.png" description="Northern Lights" location="Inspired by Bob Ross, Made in Microsoft Paint" %}
