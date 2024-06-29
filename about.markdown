@@ -8,6 +8,6 @@ I'm a third-year student at Northeastern University studying Computer Science wh
 
 Currently I'm working at [TensorDock](https://tensordock.com) which is a platform for deploying cheap cloud servers.
 
-I love to take photos, go biking, rock climbing, video games, eating food, and drinking boba.
+I love to take photos, go biking, rock climbing, skateboarding, video games, and eating food.
 
 
