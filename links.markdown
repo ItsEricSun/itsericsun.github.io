@@ -15,9 +15,11 @@ Links to cool things on the web 🌐
 - [Decoding A City In A Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
 - [Life Universe](https://oimo.io/works/life/)
 - [Ambient Scotrail Beats](https://www.matteason.co.uk/scotbeats/)
+- [Where's George?](https://www.wheresgeorge.com/)
 
 Games 🎮
 - [slow roads](https://slowroads.io/)
+- [Super Auto Pets](https://teamwood.itch.io/super-auto-pets)
 - [A Firelit Room](https://adarkroom.doublespeakgames.com/)
 - [The Blob Toy](https://oimo.io/works/blob/)
 - [Google Doodle Halloween 2016](https://doodles.google/doodle/halloween-2016/)
@@ -28,6 +30,9 @@ Games 🎮
 - [Wikipedia Speedruns](https://wikispeedruns.com/)
 - [Eraser](https://ringating.itch.io/eraser)
 - [Super Rocket Monkey](https://greenboxgames.itch.io/super-rocket-monkey)
+- [144](https://doodle-pile.gitlab.io/144/)
+- [Bird Bakery](https://sebastianscaini.itch.io/bird-bakery)
+- [Sort the Court!](https://graebor.itch.io/sort-the-court)
 
 Youtube Channels 📺
 - [영국남자 Korean Englishman](https://www.youtube.com/@koreanenglishman)
