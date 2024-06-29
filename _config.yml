@@ -23,8 +23,9 @@ title: Eric Sun
 email: sun.eric@northeastern.edu
 description: >- # this means to ignore newlines until "baseurl:"
   ʕっ•ᴥ•ʔっ
-footer_description: >- # this means to ignore newlines until "baseurl:"
+footer_description: |
   My personal website with a focus on pictures I have taken throughout my daily life :)
+  Developed with Jekyll and hosted on GitHub Pages. Source code available on <a href="https://github.com/ItsEricSun/itsericsun.github.io">GitHub</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://itsericsun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: ericc.sun
