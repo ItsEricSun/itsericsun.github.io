@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-Links to cool things on the web 🌐
+Cool things on the web 🌐
 - [Neal.fun](https://neal.fun/)
 - [Map with Birthplace of Notable People](https://tjukanovt.github.io/notable-people)
 - [One Million Checkboxes](https://onemillioncheckboxes.com/)
