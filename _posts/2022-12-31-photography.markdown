@@ -15,3 +15,4 @@ categories:
 {% include image.html url="/images/2022/0814.jpg" description="My Bike" location="Gates Mills, OH, USA" %}
 {% include image.html url="/images/2022/0924.jpg" description="Waves of Charles River" location="Boston, MA, USA" %}
 {% include image.html url="/images/2022/1002.jpg" description="Squirrel in Boston Common" location="Boston, MA, USA" %}
+{% include image.html url="/images/2022/1103.jpg" description="Night Skyline" location="Boston, MA, USA" %}
