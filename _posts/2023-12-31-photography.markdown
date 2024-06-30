@@ -7,7 +7,7 @@ categories:
 ---
 {% include image.html url="/images/2023/0410.jpg" description="Tree in Bloom" location="Boston, MA, USA" %}
 {% include image.html url="/images/2023/0417.jpg" description="Boston Marathon" location="Boston, MA, USA" %}
-{% include image.html url="/images/2023/0501.jpg" description="Pink Blossoms" location="Lowell, MA, USA" %}
+{% include image.html url="/images/2023/0501.jpg" description="Crabapple Blossoms" location="Lowell, MA, USA" %}
 {% include image.html url="/images/2023/0507.jpg" description="Busy Bee" location="Boston, MA, USA" %}
 {% include image.html url="/images/2023/0513.jpg" description="Complimentary Colors" location="Boston, MA, USA" %}
 {% include image.html url="/images/2023/05181.jpg" description="Sailing on the Charles River" location="Boston, MA, USA" %}
