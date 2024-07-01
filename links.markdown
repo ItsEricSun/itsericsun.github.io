@@ -45,5 +45,6 @@ Youtube Channels 📺
 - [LEMMiNO](https://www.youtube.com/@LEMMiNO)
 - [Mike Boyd](https://www.youtube.com/@MikeBoyd)
 - [Wintergatan](https://www.youtube.com/@Wintergatan)
+- [Great Big Story](https://www.youtube.com/@greatbigstory)
 
 If you have any interesting links, feel free to send me an email :)
