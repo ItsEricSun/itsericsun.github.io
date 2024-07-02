@@ -12,8 +12,8 @@ categories:
 {% include image.html url="/images/2024/0408.jpg" description="Totality" location="Burlington, VT, USA" %}
 {% include image.html url="/images/2024/0415.jpg" description="Magnolia Petals" location="Boston, MA, USA" %}
 {% include image.html url="/images/2024/0511.jpg" description="Northern Lights" location="Westford, MA, USA" %}
-{% include image.html url="/images/2024/05191.jpg" description="Flowers pt. 1" location="Westford, MA, USA" %}
-{% include image.html url="/images/2024/05192.jpg" description="Flowers pt. 2" location="Westford, MA, USA" %}
-{% include image.html url="/images/2024/05193.jpg" description="Flowers pt. 3" location="Westford, MA, USA" %}
+{% include image.html url="/images/2024/05191.jpg" description="Rhododendron Flowers" location="Westford, MA, USA" %}
+{% include image.html url="/images/2024/05192.jpg" description="Dogwood Flowers pt. 1" location="Westford, MA, USA" %}
+{% include image.html url="/images/2024/05193.jpg" description="Dogwood Flowers pt. 2" location="Westford, MA, USA" %}
 {% include image.html url="/images/2024/0602.jpg" description="McLaren GT" location="Boston, MA, USA" %}
 
