@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Photography: 2022"
-date:   2022-12-31 23:59:59 -0000
+date:   2022-11-03 23:59:59 -0000
 thumbnail: /images/thumbnails/2022.jpg
 categories: 
 ---
