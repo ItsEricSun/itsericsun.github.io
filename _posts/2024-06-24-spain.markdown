@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Spain"
+date:   2024-06-24 23:59:59 -0000
+thumbnail: /images/thumbnails/spain.jpg
+categories: 
+---
+{% include image.html url="/images/2024-spain/06131.jpg" description="Books" location="Centro, Madrid, Spain" %}
+{% include image.html url="/images/2024-spain/06132.jpg" description="Cat in Garden" location="Retiro, Madrid, Spain" %}
+{% include image.html url="/images/2024-spain/06141.jpg" description="Rainbow Glass" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06142.jpg" description="Fishbone Ceiling" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06143.jpg" description="Sagrada Família" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06144.jpg" description="White House" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06145.jpg" description="Sagrada Família from Park Güell" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06146.jpg" description="Cozy Street" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06151.jpg" description="Mountain Peak Monastery" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06152.jpg" description="Montserrat from Afar" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06161.jpg" description="Arc de Triomf" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06162.jpg" description="Casa Milà" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/06163.jpg" description="Beach" location="Barcelona, Catalonia, Spain" %}
+{% include image.html url="/images/2024-spain/0618.jpg" description="Sunset" location="Centro, Madrid, Spain" %}
+{% include image.html url="/images/2024-spain/06191.jpg" description="Library" location="Toledo, Spain" %}
+{% include image.html url="/images/2024-spain/06192.jpg" description="El Transparente" location="Toledo, Spain" %}
+{% include image.html url="/images/2024-spain/06201.jpg" description="Alhambra" location="Centro, Granada, Spain" %}
+{% include image.html url="/images/2024-spain/06202.jpg" description="Blue Eyes" location="Centro, Granada, Spain" %}
+{% include image.html url="/images/2024-spain/06203.jpg" description="Rainbow Sunset" location="Centro, Granada, Spain" %}
+{% include image.html url="/images/2024-spain/06211.jpg" description="Green Pool" location="Centro, Granada, Spain" %}
+{% include image.html url="/images/2024-spain/06212.jpg" description="Granada from Alhambra" location="Centro, Granada, Spain" %}
+{% include image.html url="/images/2024-spain/0624.jpg" description="Lone Lighthouse" location="Boston, MA, USA" %}
