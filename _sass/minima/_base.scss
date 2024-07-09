@@ -258,3 +258,13 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+/**
+ * Text Colors
+ */
+.text-brand-gradient {
+  background: $brand-gradient;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
