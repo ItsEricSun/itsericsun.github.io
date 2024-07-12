@@ -22,6 +22,7 @@ Cool things on the web 🌐
 - [Every Noise at Once](https://everynoise.com)
 - [Bird Buddy](https://live.mybirdbuddy.com)
 - [AutoDraw](https://www.autodraw.com)
+- [ASCII Art Archive](https://www.asciiart.eu)
 
 Games 🎮
 - [slow roads](https://slowroads.io)
