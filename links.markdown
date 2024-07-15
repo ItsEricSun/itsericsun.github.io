@@ -50,6 +50,7 @@ Games 🎮
 Youtube Channels 📺
 - [영국남자 Korean Englishman](https://www.youtube.com/@koreanenglishman)
 - [Veritasium](https://www.youtube.com/@veritasium)
+- [Mark Rober](https://www.youtube.com/@MarkRober)
 - [Tom Scott](https://www.youtube.com/@TomScottGo)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)
 - [CGP Grey](https://www.youtube.com/@cgpgrey)
