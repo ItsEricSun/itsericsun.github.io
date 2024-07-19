@@ -23,6 +23,7 @@ Cool things on the web 🌐
 - [Bird Buddy](https://live.mybirdbuddy.com)
 - [AutoDraw](https://www.autodraw.com)
 - [ASCII Art Archive](https://www.asciiart.eu)
+- [Rotating Sandwiches](https://rotatingsandwiches.com)
 
 Games 🎮
 - [slow roads](https://slowroads.io)
