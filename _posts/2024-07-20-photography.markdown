@@ -20,3 +20,9 @@ categories:
 {% include image.html url="/images/2024/07042.jpg" description="🦅" location="Acton, MA, USA" %}
 {% include image.html url="/images/2024/07201.jpg" description="Deer in the Woods" location="Jaffrey, NH, USA" %}
 {% include image.html url="/images/2024/07202.jpg" description="Golden Eagle Flying over Mount Monadnock" location="Jaffrey, NH, USA" %}
+{% include image.html url="/images/2024/08081.jpg" description="Acadia National Park" location="Bar Harbor, ME, USA" %}
+{% include image.html url="/images/2024/08082.jpg" description="Crab Rave" location="Bar Harbor, ME, USA" %}
+{% include image.html url="/images/2024/08083.jpg" description="Yellow Umbrellas" location="Bar Harbor, ME, USA" %}
+{% include image.html url="/images/2024/08084.jpg" description="Crab Dinner" location="Bar Harbor, ME, USA" %}
+{% include image.html url="/images/2024/08085.jpg" description="Cruising" location="Bar Harbor, ME, USA" %}
+{% include image.html url="/images/2024/0809.jpg" description="Through the Fog" location="Cape Elizabeth, ME, USA" %}
