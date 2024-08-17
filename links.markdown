@@ -47,6 +47,7 @@ Games 🎮
 - [Universal Paperclips](https://decisionproblem.com/paperclips)
 - [PNOGSTROM](https://raould.github.io/pn0gstr0m)
 - [Minute Cryptic](https://www.minutecryptic.com)
+- [Redactle](https://redactle.net)
 
 Youtube Channels 📺
 - [영국남자 Korean Englishman](https://www.youtube.com/@koreanenglishman)
