@@ -9,4 +9,4 @@ categories:
 {% include image.html url="/images/2018/05232.jpg" description="Sunset Flames over Lincoln Memorial" location="Washington, D.C., USA" %}
 {% include image.html url="/images/2018/0527.jpg" description="Dufferin Terrace" location="Québec City, Quebec, Canada" %}
 {% include image.html url="/images/2018/0720.jpg" description="Hanging Temple" location="Datong, Shanxi, China" %}
-{% include image.html url="/images/2018/0824.jpg" description="Lighthouse on Coast" location="Cape Elizabeth, ME, USA" %}
+{% include image.html url="/images/2018/0824.jpg" description="Portland Head Light" location="Cape Elizabeth, ME, USA" %}
