@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Photography: 2024"
-date:   2024-07-20 23:59:59 -0000
+date:   2024-08-10 23:59:59 -0000
 thumbnail: /images/thumbnails/2024.jpg
 categories: 
 ---
@@ -26,3 +26,4 @@ categories:
 {% include image.html url="/images/2024/08084.jpg" description="Crab Dinner" location="Bar Harbor, ME, USA" %}
 {% include image.html url="/images/2024/08085.jpg" description="Cruising" location="Bar Harbor, ME, USA" %}
 {% include image.html url="/images/2024/0809.jpg" description="Through the Fog" location="Cape Elizabeth, ME, USA" %}
+{% include image.html url="/images/2024/0810.jpg" description="Splish Splash" location="Westford, MA, USA" %}
