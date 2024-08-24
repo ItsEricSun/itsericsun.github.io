@@ -24,6 +24,7 @@ Cool things on the web 🌐
 - [AutoDraw](https://www.autodraw.com)
 - [ASCII Art Archive](https://www.asciiart.eu)
 - [Rotating Sandwiches](https://rotatingsandwiches.com)
+- [COVID-19 Signage Archive](https://covid-signage.net)
 
 Games 🎮
 - [slow roads](https://slowroads.io)
