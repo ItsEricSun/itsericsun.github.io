@@ -59,12 +59,19 @@ img {
   vertical-align: middle;
 }
 
+/**
+ * Videos
+ */
+video {
+  max-width: 100%;
+  vertical-align: middle;
+}
 
 
 /**
  * Figures
  */
-figure > img {
+figure > img, video {
   display: block;
 }
 
