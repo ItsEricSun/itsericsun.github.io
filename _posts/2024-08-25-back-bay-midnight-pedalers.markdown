@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Back Bay Midnight Pedalers"
+title:  "Blog: Back Bay Midnight Pedalers"
 date:   2024-08-25 23:59:59 -0000
 thumbnail: /images/thumbnails/back-bay-midnight-pedalers.jpg
 categories: 
