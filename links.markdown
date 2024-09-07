@@ -25,6 +25,7 @@ Cool things on the web 🌐
 - [ASCII Art Archive](https://www.asciiart.eu)
 - [Rotating Sandwiches](https://rotatingsandwiches.com)
 - [COVID-19 Signage Archive](https://covid-signage.net)
+- [Is My Blue Your Blue?](https://ismy.blue)
 
 Games 🎮
 - [slow roads](https://slowroads.io)
