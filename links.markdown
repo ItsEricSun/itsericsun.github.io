@@ -26,6 +26,7 @@ Cool things on the web 🌐
 - [Rotating Sandwiches](https://rotatingsandwiches.com)
 - [COVID-19 Signage Archive](https://covid-signage.net)
 - [Is My Blue Your Blue?](https://ismy.blue)
+- [Bop Spotter](https://walzr.com/bop-spotter)
 
 Games 🎮
 - [slow roads](https://slowroads.io)
