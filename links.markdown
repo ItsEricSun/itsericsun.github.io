@@ -55,6 +55,7 @@ Games 🎮
 
 Youtube Channels 📺
 - [영국남자 Korean Englishman](https://www.youtube.com/@koreanenglishman)
+- [Yes Theory](https://www.youtube.com/@YesTheory)
 - [Veritasium](https://www.youtube.com/@veritasium)
 - [Mark Rober](https://www.youtube.com/@MarkRober)
 - [Tom Scott](https://www.youtube.com/@TomScottGo)
