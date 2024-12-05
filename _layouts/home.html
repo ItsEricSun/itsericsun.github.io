@@ -9,11 +9,14 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {%- assign collection_name = page.collection_name | default: 'posts' -%}
+  {%- assign collection = site[collection_name] -%}
+
+  {%- if collection.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Gallery" }}</h2>
     <div class="footer-col-wrapper">
       <ul class="post-list">
-        {%- for post in site.posts -%}
+        {%- for post in collection -%}
           <div class="footer-col footer-col-3">
             <a class="post-container" href="{{ post.url | relative_url }}">
               <li>
@@ -32,8 +35,7 @@ layout: default
         {%- endfor -%}
       </ul>
     </div>
-
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
 
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 </div>

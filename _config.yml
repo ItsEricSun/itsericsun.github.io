@@ -37,6 +37,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  extras:
+    output: true
+    permalink: /extras/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
