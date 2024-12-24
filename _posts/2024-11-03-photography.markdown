@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Photography: 2024"
-date:   2024-08-24 23:59:59 -0000
+date:   2024-11-03 23:59:59 -0000
 thumbnail: /images/thumbnails/2024.jpg
 categories: 
 ---
@@ -30,3 +30,10 @@ categories:
 {% include image.html url="/images/2024/0812.jpg" description="Stars and Lights" location="Westford, MA, USA" %}
 {% include image.html url="/images/2024/0820.jpg" description="Full Moon" location="Westford, MA, USA" %}
 {% include image.html url="/images/2024/0824.jpg" description="Complementary Colored Clouds" location="Westford, MA, USA" %}
+{% include image.html url="/images/2024/0902.jpg" description="Pink Roses" location="Boston, MA, USA" %}
+{% include image.html url="/images/2024/0908.jpg" description="Sunset Moon" location="Boston, MA, USA" %}
+{% include image.html url="/images/2024/09121.jpg" description="°U°" location="Boston, MA, USA" %}
+{% include image.html url="/images/2024/09122.jpg" description="Autumn Lanterns" location="Boston, MA, USA" %}
+{% include image.html url="/images/2024/0928.jpg" description="Autumn Leaves" location="Mt Jefferson, NH, USA" %}
+{% include image.html url="/images/2024/11031.jpg" description="Northeastern University CS Building" location="Boston, MA, USA" %}
+{% include image.html url="/images/2024/11032.jpg" description="Comfy Clouds" location="Boston, MA, USA" %}
