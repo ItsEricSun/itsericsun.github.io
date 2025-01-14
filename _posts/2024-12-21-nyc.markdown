@@ -1,0 +1,130 @@
+---
+layout: post
+title:  "Trip/Blog: New York City"
+date:   2024-12-21 23:59:59 -0000
+thumbnail: /images/thumbnails/2024-nyc.jpg
+categories: 
+---
+<span style="font-size: 1.5rem;">Table of Contents</span>
+* toc
+{:toc}
+
+# Intro
+
+Welcome to my second blog! This time, it will be on my trip to New York City, with most of the commentary happening in the later food sections. This was the first time I actually got to stay in NYC for a few days and do stuff within the city while previous times I was just passing through. So I wanted to make this a trip where I splurged a bit and so I ended up going to [bōm](https://www.bom-nyc.com/) and [Omakase by Korami](http://www.omakasebykorami.com/) – both very fancy!
+
+# Photography/Videos    
+{% include image.html url="/images/2024-nyc/12171.jpg" description="Christmas Lights" location="Hudson Yards" %}
+{% include image.html url="/images/2024-nyc/12172.jpg" description="" location="Nubiani" %}
+{% include video.html url="/videos/2024-nyc/1217.mp4" description="Doggos" location="Madison Square Park" %}
+{% include image.html url="/images/2024-nyc/12173.jpg" description="" location="Grace Street Coffee & Desserts" %}
+{% include image.html url="/images/2024-nyc/12181.jpg" description="" location="LOS TACOS No.1 @ Chelsea Market" %}
+{% include image.html url="/images/2024-nyc/12182.jpg" description="Blue Edge & Red Dots" location="High Line Observation Deck" %}
+{% include video.html url="/videos/2024-nyc/1218.mp4" description="" location="The Edge" %}
+{% include image.html url="/images/2024-nyc/12183.jpg" description="The City That Never Sleeps" location="The Edge" %}
+{% include image.html url="/images/2024-nyc/12184.jpg" description="The Crossroads of the World" location="Times Square" %}
+{% include video.html url="/videos/2024-nyc/12191.mp4" description="" location="Central Park" %}
+{% include video.html url="/videos/2024-nyc/12192.mp4" description="" location="Bryant Park Holiday Market" %}
+{% include image.html url="/images/2024-nyc/12211.jpg" description="Pointed Tip" location="Hell's Kitchen" %}
+{% include image.html url="/images/2024-nyc/12212.jpg" description="" location="Tompkins Square Bagels" %}
+{% include video.html url="/videos/2024-nyc/12211.mp4" description="" location="Brooklyn Bridge" %}
+{% include image.html url="/images/2024-nyc/12213.jpg" description="Manhattan Bridge" location="Dumbo" %}
+{% include image.html url="/images/2024-nyc/12214.jpg" description="Through the Window" location="Time Out Market" %}
+{% include video.html url="/videos/2024-nyc/12212.mp4" description="" location="Manhattan Bridge" %}
+{% include video.html url="/videos/2024-nyc/12213.mp4" description="Sunset Subway" location="Pier 35" %}
+{% include image.html url="/images/2024-nyc/12215.jpg" description="Lights at Shore" location="Pier 35" %}
+{% include image.html url="/images/2024-nyc/12216.jpg" description="" location="Indian Accent" %}
+{% include image.html url="/images/2024-nyc/12217.jpg" description="Glittery Lights" location="Radio City Music Hall" %}
+{% include image.html url="/images/2024-nyc/12218.jpg" description="The Tree" location="Rockefeller Center" %}
+
+# bōm
+
+[bōm](https://www.bom-nyc.com/) is a 1 Michelin-starred restaurant that serves a progressive Korean tasting menu at the chef's counter. This was the menu that was being served the day I went:
+
+{% include image.html url="/images/2024-nyc/bom/1.jpg" description="" location="" %}
+
+These were all the ingredients that would be used for the dishes (the crab was still alive and moving around :0)
+
+{% include image.html url="/images/2024-nyc/bom/2.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/3.jpg" description="" location="" %}
+
+The dining area:
+
+{% include video.html url="/videos/2024-nyc/bom/1.mp4" description="" location="" %}
+
+Now we start with the courses!
+
+{% include video.html url="/videos/2024-nyc/bom/2.mp4" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/4.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/5.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/6.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/7.jpg" description="" location="" %}
+
+The service throughout these dishes was amazing. I wasn't expecting them to, between each course, swap out our utensils for new different ones that match the next course. And whenever we were served a dish, they would describe what was the dish, all the ingredients that make it up, and what traditional Korean dish inspired it. 
+
+You could watch the chefs put together the dishes and that was really cool to watch!
+
+{% include video.html url="/videos/2024-nyc/bom/3.mp4" description="" location="" %}
+{% include video.html url="/videos/2024-nyc/bom/4.mp4" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/8.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/9.jpg" description="" location="" %}
+
+This was my first time trying caviar! I always thought it was a rich food that probably tastes bad, but I really enjoyed its really salty fish flavor (if you don't like seafood then you probably won't like it 😅).
+
+{% include image.html url="/images/2024-nyc/bom/10.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/11.jpg" description="My Fav Dish!" location="" %}
+{% include image.html url="/images/2024-nyc/bom/12.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/13.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/14.jpg" description="" location="" %}
+
+They called these dishes the filler dishes because according to the chef, "Don't you hate it when you go to tasting menus and you're still hungry after you leave? Well, these are to make sure you don't end up eating tacos and burgers after this 😄". ~~My friend ended up getting a burger.~~ And of course these also tasted very good and did fill me up!
+
+{% include image.html url="/images/2024-nyc/bom/15.jpg" description="" location="" %}
+
+While I was busy eating the dishes, they began cooking the wagyu and the smell was amazing 🤤
+
+{% include video.html url="/videos/2024-nyc/bom/5.mp4" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/16.jpg" description="" location="" %}
+
+I noticed that the meat looked a bit burnt after it was cooked, and indeed when I ate it, you could definitely taste the burnt flavor. But then came another really amazing service moment. Without even saying anything, another chef was walking by and then said, "Oh, that looks a tiny bit burnt, don't eat the rest, I'll make you a new one." And then she took the dish and brought out a new one and cooked it again, this time making sure it wasn't burnt. Tasted much better than before and that was really cool to experience!
+
+{% include image.html url="/images/2024-nyc/bom/17.jpg" description="" location="" %}
+
+This was also my first time eating wagyu, and what I see people saying online about it was definitely true! The meat was soooooo soft and tender and it did basically melt like butter in my mouth, definitely the best meat I've ever had!
+
+Time for the desserts!
+
+{% include image.html url="/images/2024-nyc/bom/18.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/19.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/bom/20.jpg" description="" location="" %}
+
+The whole experience was amazing and I would definitely recommend it to anyone who wants to try a fancy Korean tasting menu! I'm happy that it got to be my first Michelin-starred restaurant experience!
+
+# Omakase by Korami
+
+[Omakase by Korami](http://www.omakasebykorami.com/) is a omakase restaurant that serves guests a 15 course selection of sushi/fish chosen specifically for that season. What the seating area looks like:
+
+{% include image.html url="/images/2024-nyc/omakase/1.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/2.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/3.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/4.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/5.jpg" description="" location="" %}
+{% include video.html url="/videos/2024-nyc/omakase/1.mp4" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/6.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/7.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/8.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/9.jpg" description="" location="" %}
+
+Very cool flamethrower ‼
+
+{% include video.html url="/videos/2024-nyc/omakase/2.mp4" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/10.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/11.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/12.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/13.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/14.jpg" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/15.jpg" description="" location="" %}
+{% include video.html url="/videos/2024-nyc/omakase/3.mp4" description="" location="" %}
+{% include image.html url="/images/2024-nyc/omakase/16.jpg" description="" location="" %}
+
+So not too much commentary on this one, but I really really really enjoyed the sushi and watching the chefs make it right in front of me! I would definitely recommend this place to anyone who likes sushi and wants to try a bunch of different types of fish!
