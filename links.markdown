@@ -27,6 +27,7 @@ Cool things on the web 🌐
 - [COVID-19 Signage Archive](https://covid-signage.net)
 - [Is My Blue Your Blue?](https://ismy.blue)
 - [Bop Spotter](https://walzr.com/bop-spotter)
+- [Flip a real coin dot com](https://fliparealcoin.com)
 
 Games 🎮
 - [slow roads](https://slowroads.io)
