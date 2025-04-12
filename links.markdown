@@ -28,6 +28,7 @@ Cool things on the web 🌐
 - [Is My Blue Your Blue?](https://ismy.blue)
 - [Bop Spotter](https://walzr.com/bop-spotter)
 - [Flip a real coin dot com](https://fliparealcoin.com)
+- [Fun GUI](https://fungui.resn.co.nz)
 
 Games 🎮
 - [slow roads](https://slowroads.io)
