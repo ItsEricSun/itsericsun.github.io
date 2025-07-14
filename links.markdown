@@ -29,6 +29,7 @@ Cool things on the web 🌐
 - [Bop Spotter](https://walzr.com/bop-spotter)
 - [Flip a real coin dot com](https://fliparealcoin.com)
 - [Fun GUI](https://fungui.resn.co.nz)
+- [Unsure Calculator](https://filiph.github.io/unsure)
 
 Games 🎮
 - [slow roads](https://slowroads.io)
