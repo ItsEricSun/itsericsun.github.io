@@ -57,6 +57,7 @@ Games 🎮
 - [Gisnep!](https://gisnep.com)
 - [Comball](https://erayzesen.itch.io/comball)
 - [[Bracket City]](https://bracket.city)
+- [BUZZLED](https://puzzmallow.com/buzzled)
 
 Youtube Channels 📺
 - [영국남자 Korean Englishman](https://www.youtube.com/@koreanenglishman)
