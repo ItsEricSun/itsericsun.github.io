@@ -16,7 +16,8 @@ layout: default
     <h2 class="post-list-heading">{{ page.list_title | default: "Gallery" }}</h2>
     <div class="footer-col-wrapper">
       <ul class="post-list">
-        {%- for post in collection -%}
+        {%- assign sorted_collection = collection | sort: "date" | reverse -%}
+        {%- for post in sorted_collection -%}
           <div class="footer-col footer-col-3">
             <a class="post-container" href="{{ post.url | relative_url }}">
               <li>
