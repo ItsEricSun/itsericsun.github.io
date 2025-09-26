@@ -5,6 +5,7 @@ permalink: /links/
 ---
 
 Cool things on the web 🌐
+- [What football will look like in the future](https://www.sbnation.com/a/17776-football)
 - [Neal.fun](https://neal.fun)
 - [Map with Birthplace of Notable People](https://tjukanovt.github.io/notable-people)
 - [One Million Checkboxes](https://onemillioncheckboxes.com)
