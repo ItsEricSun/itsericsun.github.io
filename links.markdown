@@ -34,6 +34,7 @@ Cool things on the web 🌐
 
 Games 🎮
 - [slow roads](https://slowroads.io)
+- [Game about Squares](https://gameaboutsquares.com)
 - [Super Auto Pets](https://teamwood.itch.io/super-auto-pets)
 - [A Firelit Room](https://adarkroom.doublespeakgames.com)
 - [The Blob Toy](https://oimo.io/works/blob)
