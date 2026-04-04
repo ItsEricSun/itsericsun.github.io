@@ -33,6 +33,7 @@ Cool things on the web 🌐
 - [Unsure Calculator](https://filiph.github.io/unsure)
 
 Games 🎮
+- [Dialed](https://dialed.gg)
 - [slow roads](https://slowroads.io)
 - [Game about Squares](https://gameaboutsquares.com)
 - [Super Auto Pets](https://teamwood.itch.io/super-auto-pets)
