@@ -34,6 +34,7 @@ Cool things on the web 🌐
 
 Games 🎮
 - [Dialed](https://dialed.gg)
+- [Klifur](https://torfi.itch.io/klifur)
 - [slow roads](https://slowroads.io)
 - [Game about Squares](https://gameaboutsquares.com)
 - [Super Auto Pets](https://teamwood.itch.io/super-auto-pets)
